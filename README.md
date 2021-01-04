@@ -7,6 +7,12 @@
 | 2  | Bintang Fikriguska     | Game Programmer |
 | 3  | Yuda Baskara           | Game Artist     |
 
+## Control
+1. A, D / arrow kiri, arrow kanan : Untuk menggerakan karakter
+2. S / ctrl : Melempar hand sanitizer
+3. Space : lompat
+
+
 ## Story
 Agri merupakan seorang mahasiswa di universitas ternama. Ia ingin berangkat kuliah ke kampusnya, tetapi karena suasana sedang pandemi Agri mendapatkan rintangan selama perjalanannya ke kampus. Rintangan tersebut berupa virus yang mengganggu sepanjang perjalanan. Agri harus menghadapi rintangan-rintangan tersebut untuk sampai ke kampus nya.
 
@@ -24,13 +30,13 @@ Berhasil sampai ke kampus dengan selamat
 
 ## Assets
 Sound :
-http://soundimage.org/
-https://www.zapsplat.com/sound-effect-categories/
+- Musik dan sound in game : http://soundimage.org/
+- Efek klik pada menu : https://www.zapsplat.com/sound-effect-categories/
 
 Textures :
-https://assetstore.unity.com/?category=2d&free=true&orderBy=1
-https://itch.io/game-assets/free/tag-background
-Buat sendiri menggunakan pixel studio for pixel art melalui steam
+- Asset tanah : https://assetstore.unity.com/?category=2d&free=true&orderBy=1
+- Background : https://itch.io/game-assets/free/tag-background
+- Asset character, masker, hand sanitizer, kosan, dan kampus : Buat sendiri menggunakan pixel studio for pixel art melalui steam
 
 ## Teknologi yang Digunakan
 - Unity3d 2019.4.13f1 : Game engine
