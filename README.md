@@ -29,3 +29,10 @@ Textures :
 https://assetstore.unity.com/?category=2d&free=true&orderBy=1
 
 Buat sendiri jika memungkinkan
+
+## Teknologi yang Digunakan
+Unity3d 2019.4.13f1 : Game engine
+C# : Bahasa Pemrograman
+Unity Hub 2.4.2 : Platform Kolaborasi Projek
+Sublime Text 3.2.2: Text Editor
+Github : Dokumentasi Projek
