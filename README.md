@@ -39,6 +39,7 @@ Textures :
 - Asset character, masker, hand sanitizer, kosan, dan kampus : Buat sendiri menggunakan pixel studio for pixel art melalui steam
 
 ## Teknologi yang Digunakan
+- Pixel studio for pixel art : membuat asset game
 - Unity3d 2019.4.13f1 : Game engine
 - C# : Bahasa Pemrograman
 - Unity Hub 2.4.2 : Platform Kolaborasi Projek
