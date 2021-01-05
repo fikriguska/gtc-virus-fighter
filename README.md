@@ -45,3 +45,10 @@ Textures :
 - Unity Hub 2.4.2 : Platform Kolaborasi Projek
 - Sublime Text 3.2.2: Text Editor
 - Github : Dokumentasi Projek
+
+## Screenshoot
+
+![](Images/menu.png)
+![](Images/gameplay.png)
+![](Images/gameplay-2.png)
+![](Images/end.png)
