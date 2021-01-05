@@ -48,7 +48,7 @@ Textures :
 
 ## Screenshoot
 
-![](Images/menu.png)
-![](Images/gameplay.png)
-![](Images/gameplay-2.png)
-![](Images/end.png)
+![](Screenshoots/menu.png)
+![](Screenshoots/gameplay.png)
+![](Screenshoots/gameplay-2.png)
+![](Screenshoots/end.png)
